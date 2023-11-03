@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939594854325",
+    "project_id": "testlinking-d4f58",
+    "storage_bucket": "testlinking-d4f58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939594854325:android:5d3de07c004642442df3fc",
+        "android_client_info": {
+          "package_name": "com.soje.testlinking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1cRmbSqX7iKemDiT5bhOEfy6HhaRmEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
