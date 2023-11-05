@@ -2,6 +2,7 @@
 
 - clone repository
 - cd into repository and install using "yarn"
+- download and install expo build on emulator from https://expo.dev/accounts/soje/projects/testlinking
 - launch expo development client using "npx expo start --dev-client"
 - open on android by pressing "a". You should now see the home screen
 
