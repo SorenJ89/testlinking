@@ -15,3 +15,7 @@
 
 ![image](https://github.com/SorenJ89/testlinking/assets/25386745/f1fed666-a770-4f1b-a3e5-02169251899f)
 
+- 3 Errors should now be shown
+
+![image](https://github.com/SorenJ89/testlinking/assets/25386745/a12e054b-49bb-4cc6-88f6-face25517869)
+
